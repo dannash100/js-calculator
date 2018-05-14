@@ -108,6 +108,8 @@ window.onload = function start() {
         }
         output = sum;
         answer.value = output;
+        operands= [];
+        operators= [];
     }
 }
 
